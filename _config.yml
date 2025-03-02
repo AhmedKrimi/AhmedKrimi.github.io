@@ -47,14 +47,19 @@ social_media:
   # youtube: your_username
 
 topics:
+  - name: C++
+    web_url: https://isocpp.org/
+    image_url: https://isocpp.org/assets/images/cpp_logo.png
+  
   - name: Python
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
+  - name: ROS
+    web_url: https://ros.org/
+    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/768px-Ros_logo.svg.png
+
   - name: Tensorflow
     web_url: https://www.tensorflow.org/
-    image_url: https://commons.wikimedia.org/wiki/File:Tensorflow_logo.svg
+    image_url: https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/tensorflow/images/lockup.svg
     
-  - name: Machine Learning
-
-  - name: Deep Learning
