@@ -57,7 +57,7 @@ topics:
 
   - name: ROS
     web_url: https://ros.org/
-    image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/768px-Ros_logo.svg.png
+    image_url: https://www.ros.org/imgs/ros_logo.png
 
   - name: Tensorflow
     web_url: https://www.tensorflow.org/
