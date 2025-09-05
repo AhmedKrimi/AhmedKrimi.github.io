@@ -57,7 +57,7 @@ topics:
 
   - name: PyTorch
     web_url: https://pytorch.org/
-    image_url: https://pytorch.org/wp-content/uploads/2024/10/logo.svg
+    image_url: https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg
   
   - name: TensorFlow
     web_url: https://www.tensorflow.org/
