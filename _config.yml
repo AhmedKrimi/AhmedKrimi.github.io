@@ -55,11 +55,15 @@ topics:
     web_url: https://github.com/topics/python
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/python/python.png
 
+  - name: PyTorch
+    web_url: https://pytorch.org/
+    image_url: https://pytorch.org/wp-content/uploads/2024/10/logo.svg
+  
+  - name: TensorFlow
+    web_url: https://www.tensorflow.org/
+    image_url: https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/tensorflow/images/lockup.svg
+
   - name: ROS
     web_url: https://ros.org/
     image_url: https://www.ros.org/imgs/ros_logo.png
-
-  - name: Tensorflow
-    web_url: https://www.tensorflow.org/
-    image_url: https://www.gstatic.com/devrel-devsite/prod/vdbb152dfd6ef5e309aa1d261d45f3fd443aed2691cbfba3f9f80f8a4012a0a8f/tensorflow/images/lockup.svg
     
